@@ -1,2 +1,2 @@
-Just coding for fun!
-只是随便玩玩！
+- Just coding for fun!
+- 只是随便玩玩！
